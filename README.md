@@ -16,11 +16,10 @@
 ## ```$ cat saltosmortais.txt```
 
 <!--- 📡 I manage a VPS with Ubuntu Server, also use SSH, Nginx, Docker and Cloudflare with it.-->
-- ✨ macetador profissional no nodeJS, GoLang e Java, aprendendo a macetar C.
+- ✨ macetador profissional no nodeJS, GoLang e Java.
 - 🗃 experiente em mongoDB, redis e macetador profissional em mySQL!
 
 
 ## ```$ curl http://acionaradinho.me ```
 
-- 📬 manda email pros guri: [i9whty@gmail.com](mailto:i9whty@gmail.com)
-- 🎊 Site odiado pelo dono [zaffera.xyz](https://zaffera.xyz/)
+- 📬 manda email pros guri: [i9whty@gmail.com](mailto:nicolas.sarcozi@icloud.com)
